@@ -1,0 +1,35 @@
+body {
+    font-family: Courier;
+    color: white;
+    text-align: center;
+    background-color: green;
+}
+main {
+    background-color: white;
+    width: 300px;
+    margin: auto;
+    padding: 15px 100px;
+    border-radius: 10px;
+}
+input {
+    font-family: Courier;
+    width: 25%;
+    font-size: 1rem;
+    text-align: left;
+    background-color: white;
+    color: black;
+}
+
+button {
+    font-family: Courier;
+    background-color: blue;
+    color: white;
+    font-size: 1rem;
+    padding: 5px;
+}
+
+span {
+    font-size:2rem;
+    color:white;
+    font-weight: 1000;
+}
